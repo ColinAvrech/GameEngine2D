@@ -18,6 +18,9 @@
 
 #include<iostream>
 
+using std::cout;
+using std::endl;
+
 // Including SFML for cross platform window, timer and input handling
 #pragma comment(lib, "sfml-system.lib") 
 #pragma comment(lib, "sfml-window.lib") 
